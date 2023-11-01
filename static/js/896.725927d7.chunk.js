@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcmstabs=self.webpackChunkcmstabs||[]).push([[896],{1896:function(s,c,e){e.r(c);e(72791);var n=e(80184);c.default=function(){return(0,n.jsx)("div",{children:(0,n.jsx)("h2",{children:"Dummy Chart"})})}}}]);
+//# sourceMappingURL=896.725927d7.chunk.js.map
